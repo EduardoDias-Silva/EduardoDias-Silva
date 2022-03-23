@@ -20,6 +20,6 @@
 <div> 
 
  
-  ![Snake animation](https://github.com/EduardoDias-Silva/EduardoDias-Silva/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/EduardoDias-Silva/EduardoDias-Silva/blob/main/cobrinha.yml)
  
 </div>
