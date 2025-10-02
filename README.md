@@ -1,6 +1,6 @@
 ## Ola´!!! Sou o Eduardo Dias estudande de Engenharia de Software!
 
--  Sou aluno da Universidade Cruzeiro do Sul e estou no do 4° semestre do curso de engenharia de Software!
+-  Sou aluno da Universidade Cruzeiro do Sul e estou no 10° semestre do curso de engenharia de Software!
 
 -  Estou estudando Java no momento!
 
